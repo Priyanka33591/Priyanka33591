@@ -1,50 +1,66 @@
-# Hi 👋, I’m Priyanka Yadav  
-🎓 B.Tech CSE Student at GLA University  
+<h1 align="center">Hi 👋, I'm Priyanka Yadav</h1>
+<h3 align="center">💻 B.Tech CSE Student | Full Stack Developer | Problem Solver</h3>
 
 ---
 
-### 🔬 About Me  
-I’m a self-motivated full-stack enthusiast focused on Java, JavaScript, and solving algorithmic problems. I love to challenge myself on LeetCode and build projects that make a difference.  
+### 🚀 About Me
+- 🌱 Currently learning **Full Stack Development**
+- 💬 Ask me about **Java, JavaScript, React, Node.js**
+- 🏆 Practicing Data Structures & Algorithms on [LeetCode](https://leetcode.com/u/Priyankay04/)
+- 📫 Reach me at: **priyankayadav33591@gmail.com**
+- ⚡ Fun fact: *I love turning complex problems into simple solutions 😄*
 
 ---
 
-### 🛠 Skills & Tools
-
-| Frontend | Backend | Others |
-|---|---|---|
-| JavaScript, HTML, CSS, React (if you plan to learn/use) | Java, Node.js, Express, MongoDB / MySQL | Git, GitHub, problem solving, algorithms & data structures |
-
----
-
-### 🏆 LeetCode Stats
-
-- **Username:** Priyankay04  
-- **Problems Solved:** Java (233), JavaScript (4)  
-- **Strongest Topics:** Arrays, Hash Tables, Dynamic Programming, Two Pointers, Divide & Conquer :contentReference[oaicite:5]{index=5}  
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://github.com/Priyanka33591" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/priyanka-yadav22/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Priyankay04/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🔗 Connect with me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Priyanka33591-black?logo=github)](https://github.com/Priyanka33591)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanka-Yadav-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-yadav22/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Priyankay04-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Priyankay04/)
-
----
-
-### 📂 Projects
-
-Here are some of my projects:
-
-- **Applicant Tracking System** – Full-stack project to streamline hiring process  
-- **To-Do Website** – Simple web app using HTML, CSS, JS  
-- *…* (tum aur projects daal sakti ho jise tum proud ho)  
+### 🛠️ Languages and Tools:
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
 
 ---
 
-### ⚡ Fun Facts
+### 📊 GitHub Stats:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Priyanka33591&show_icons=true&theme=radical" alt="Priyanka's github stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanka33591&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka33591&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-- I enjoy solving algorithmic challenges 😄  
-- Always keen to contribute in open source & collaborate  
-- Learning continuously — right now working on improving React & backend skills  
+---
 
+### 🏆 LeetCode Stats:
+- **Acceptance Rate:** `72.48%`  
+- **Total Submissions:** `636`  
+- **Problems Solved:**  
+  - Easy: `144/896`  
+  - Medium: `84/1914`  
+  - Hard: `9/867`  
+- **Badges Earned:** `3` (Latest: *100 Days Badge 2025*)  
+- **Total Active Days:** `102`  
+- **Max Streak:** `11 Days`  
+- **Submissions in last year:** `490`  
+
+📌 Profile: [LeetCode/Priyankay04](https://leetcode.com/u/Priyankay04/)
+
+---
+
+### ✨ Fun Zone
+- 🌸 *Code. Learn. Repeat.*  
+- 🎶 Love listening to music while coding  
+- ☕ Coffee + Coding = Perfect combo 🚀  
