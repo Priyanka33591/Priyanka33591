@@ -4,7 +4,7 @@
 🌱 I’m currently learning **Full Stack Development**  
 🤝 I’m looking for help with **React & AI Integrations**  
 💬 Ask me about **Java, JavaScript, React, Node.js**  
-📫 How to reach me: **your-email@gmail.com**  
+📫 How to reach me: **priyanka33591@gmail.com**  
 ⚡ Fun fact: I love building creative projects 😄  
 
 ---
