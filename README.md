@@ -44,17 +44,11 @@
 
 ---
 
-### 🏆 LeetCode Stats:
-- **Acceptance Rate:** `72.48%`  
-- **Total Submissions:** `636`  
-- **Problems Solved:**  
-  - Easy: `144/896`  
-  - Medium: `84/1914`  
-  - Hard: `9/867`  
-- **Badges Earned:** `3` (Latest: *100 Days Badge 2025*)  
-- **Total Active Days:** `102`  
-- **Max Streak:** `11 Days`  
-- **Submissions in last year:** `490`  
+### 🏆 LeetCode Stats (Dynamic):
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Priyankay04?theme=radical&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
 
 📌 Profile: [LeetCode/Priyankay04](https://leetcode.com/u/Priyankay04/)
 
