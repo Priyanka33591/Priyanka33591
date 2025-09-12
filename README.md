@@ -47,7 +47,7 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Priyankay04?theme=radical&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
-📌LeetCode Profile: [Priyankay04](https://leetcode.com/u/Priyankay04/)
+📌[LeetCode](https://leetcode.com/u/Priyankay04/)
 
 ---
 
