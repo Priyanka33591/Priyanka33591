@@ -1,39 +1,50 @@
-# Hi 👋, I'm Priyanka Yadav
-🎓 B.Tech CSE Student | 💻 Passionate about Web Development & AI  
-
-🌱 I’m currently learning **Full Stack Development**  
-🤝 I’m looking for help with **React & AI Integrations**  
-💬 Ask me about **Java, JavaScript, React, Node.js**  
-📫 How to reach me: **priyanka33591@gmail.com**  
-⚡ Fun fact: I love building creative projects 😄  
+# Hi 👋, I’m Priyanka Yadav  
+🎓 B.Tech CSE Student at GLA University  
 
 ---
 
-### 🚀 Languages and Tools:
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
+### 🔬 About Me  
+I’m a self-motivated full-stack enthusiast focused on Java, JavaScript, and solving algorithmic problems. I love to challenge myself on LeetCode and build projects that make a difference.  
 
 ---
 
-### 📊 GitHub Stats:
-![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+### 🛠 Skills & Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+| Frontend | Backend | Others |
+|---|---|---|
+| JavaScript, HTML, CSS, React (if you plan to learn/use) | Java, Node.js, Express, MongoDB / MySQL | Git, GitHub, problem solving, algorithms & data structures |
 
 ---
 
-### 🔗 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/-Instagram-pink?logo=Instagram&logoColor=white" /></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=Gmail&logoColor=white" /></a>
-</p>
+### 🏆 LeetCode Stats
+
+- **Username:** Priyankay04  
+- **Problems Solved:** Java (233), JavaScript (4)  
+- **Strongest Topics:** Arrays, Hash Tables, Dynamic Programming, Two Pointers, Divide & Conquer :contentReference[oaicite:5]{index=5}  
+
+---
+
+### 🔗 Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Priyanka33591-black?logo=github)](https://github.com/Priyanka33591)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priyanka-Yadav-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-yadav22/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Priyankay04-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Priyankay04/)
+
+---
+
+### 📂 Projects
+
+Here are some of my projects:
+
+- **Applicant Tracking System** – Full-stack project to streamline hiring process  
+- **To-Do Website** – Simple web app using HTML, CSS, JS  
+- *…* (tum aur projects daal sakti ho jise tum proud ho)  
+
+---
+
+### ⚡ Fun Facts
+
+- I enjoy solving algorithmic challenges 😄  
+- Always keen to contribute in open source & collaborate  
+- Learning continuously — right now working on improving React & backend skills  
 
