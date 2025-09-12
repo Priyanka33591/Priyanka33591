@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanka Yadav</h1>
 <h3 align="center">💻 B.Tech CSE Student | Full Stack Developer | Problem Solver</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka33591&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka33591" /> </p>
 
 ---
 
