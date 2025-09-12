@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **Full Stack Development & AI Integration**
+- 🌱 Currently learning **Full Stack Development**
 - 💬 Ask me about **Java, JavaScript, React, Node.js**
 - 🏆 Practicing Data Structures & Algorithms on [LeetCode](https://leetcode.com/u/Priyankay04/)
 - 📫 Reach me at: **priyankayadav33591@gmail.com**
@@ -30,21 +30,25 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### 📊 GitHub & LeetCode Stats:
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Priyanka33591&show_icons=true&theme=radical" />
-  <img width="47%" src="https://leetcard.jacoblin.cool/Priyankay04?theme=radical&font=Karma&ext=heatmap" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanka33591&show_icons=true&theme=default&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanka33591&theme=default&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
+### 💻 Most Used Languages
 <p align="center">
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanka33591&theme=radical" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka33591&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka33591&layout=compact&theme=default&hide_border=false" alt="Most Used Languages" />
+</p>
+
+### 🏆 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Priyankay04?theme=light&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
