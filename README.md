@@ -8,7 +8,7 @@
 - 🌱 Currently learning **Full Stack Development**
 - 💬 Ask me about **Java, JavaScript, React, Node.js**
 - 🏆 Practicing Data Structures & Algorithms on [LeetCode](https://leetcode.com/u/Priyankay04/)
-- 📫 Reach me at: **priyankayadav33591@gmail.com**
+- 📫 Reach me at: **priyanka33591@gmail.com**
 - 📚 Building projects like **ATS with AI, Quiz App, Learning Platform**  
 - 🎯 Goal: To create impactful tech solutions
 - ⚡ Fun fact: *I love turning complex problems into simple solutions 😄*
