@@ -20,6 +20,7 @@
 <a href="https://github.com/Priyanka33591" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/priyanka-yadav22/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/Priyankay04/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/LeetCode-Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </p>
 
 ---
