@@ -51,7 +51,24 @@
 
 ### 🏆 LeetCode Stats
 <p align="center">
+  <!-- LeetCode Card -->
   <img src="https://leetcard.jacoblin.cool/Priyankay04?theme=light&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+  <br>
+  
+  <!-- Dynamic Badges -->
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/Priyankay04&query=totalSolved&label=Problems%20Solved&color=yellow&logo=leetcode" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/Priyankay04&query=ranking&label=Ranking&color=orange&logo=leetcode" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/Priyankay04&query=easySolved&label=Easy&color=brightgreen&logo=leetcode" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/Priyankay04&query=mediumSolved&label=Medium&color=blue&logo=leetcode" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/Priyankay04&query=hardSolved&label=Hard&color=red&logo=leetcode" />
+
+  <br>
+  <p align="center">
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="100"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="100"/>
+</p>
+
 </p>
 
 ---
