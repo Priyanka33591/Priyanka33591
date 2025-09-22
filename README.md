@@ -17,15 +17,9 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://github.com/Priyanka33591" target="blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/priyanka-yadav22/" target="blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/Priyankay04/" target="blank">
-  <img src="https://leetcard.jacoblin.cool/Priyankay04?theme=light&font=Karma&ext=heatmap" alt="LeetCode Stats Badge" height="120"/>
-</a>
+<a href="https://github.com/Priyanka33591" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/priyanka-yadav22/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Priyankay04/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
@@ -53,6 +47,11 @@
 ### 💻 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanka33591&layout=compact&theme=default&hide_border=false" alt="Most Used Languages" />
+</p>
+
+### 🏆 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Priyankay04?theme=light&font=Karma&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
