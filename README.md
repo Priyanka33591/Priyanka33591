@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Currently learning **Full Stack Development**
+- 🌱 Currently learning **Full Stack Web Development**
 - 💬 Ask me about **Java, JavaScript, React.js, Node.js**
 - 🏆 Practicing Data Structures & Algorithms on [LeetCode](https://leetcode.com/u/Priyankay04/)
 - 📫 Reach me at: **priyanka33591@gmail.com**
