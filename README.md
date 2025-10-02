@@ -9,7 +9,7 @@
 - 💬 Ask me about **Java, DSA, JavaScript, React.js, Node.js**
 - 🏆 Practicing Data Structures & Algorithms on [LeetCode](https://leetcode.com/u/Priyankay04/)
 - 📫 Reach me at: **priyanka33591@gmail.com**
-- 📚 Building projects like **ATS with AI, Quiz App, Learning Platform**  
+- 📚 Building projects like **ATS with AI, Quiz App, Financial Expense Tracker**  
 - 🎯 Goal: To create impactful tech solutions
 - ⚡ Fun fact: *I love turning complex problems into simple solutions 😄*
 
