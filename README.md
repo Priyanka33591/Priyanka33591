@@ -74,6 +74,7 @@ I'm a **B.Tech Computer Science Graduate and aspiring Java Backend Developer** w
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+    <img src=" https://diziglobalsolution.com/wp-content/uploads/2023/04/javascript-logo-transparent-logo-javascript-images-3.png" width="45" height="45" alt="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
 </p>
