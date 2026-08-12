@@ -52,7 +52,7 @@ I'm a **B.Tech Computer Science Graduate and aspiring Java Backend Developer** w
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot-original.svg" width="45" height="45" alt="Spring Boot"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" width="45" height="45" alt="Spring Boot"/>
 </p>
 
 **Spring • Spring Boot • Spring MVC • Spring Security • REST APIs • Microservices**
