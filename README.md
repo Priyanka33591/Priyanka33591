@@ -123,7 +123,6 @@ I'm a **B.Tech Computer Science Graduate and aspiring Java Backend Developer** w
 ## 💼 HireConnect — Microservices Job Portal
 
 A full-stack job portal designed using a **microservices architecture**.
-```
 ### Key Features
 
 * 🔐 Authentication and authorization
@@ -386,13 +385,6 @@ Areas of exposure include:
 # 📫 Contact
 
 **Email:** `priyanka33591@gmail.com`
-
-**GitHub:** `@Priyanka33591`
-
-**LinkedIn:** `@priyanka-yadav22`
-
-**LeetCode:** `@Priyankay04`
-```
 
 ---
 
