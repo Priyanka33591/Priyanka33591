@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a **B.Tech Computer Science student and aspiring Java Backend Developer** who enjoys building scalable applications, solving programming problems, and learning how real-world software systems work.
+I'm a **B.Tech Computer Science Graduate and aspiring Java Backend Developer** who enjoys building scalable applications, solving programming problems, and learning how real-world software systems work.
 
 * 🎓 B.Tech in **Computer Science & Engineering**
 * 💻 Interested in **Java Backend Development & Full Stack Development**
