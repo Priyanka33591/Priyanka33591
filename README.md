@@ -53,11 +53,9 @@ I'm a **B.Tech Computer Science Graduate and aspiring Java Backend Developer** w
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot-original.svg" width="45" height="45" alt="Spring Boot"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/>
 </p>
 
-**Spring • Spring Boot • Spring MVC • Spring Security • REST APIs • Microservices • Node.js • Express.js**
+**Spring • Spring Boot • Spring MVC • Spring Security • REST APIs • Microservices**
 
 ---
 
