@@ -62,10 +62,11 @@ I'm a **B.Tech Computer Science Graduate and aspiring Java Backend Developer** w
 ### 🔐 Security
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oauth/oauth-original.svg" width="45" height="45" alt="OAuth"/>
+  <img src="https://miro.medium.com/1*vQ5I4c8inMOoUfGB7BunCQ.png" width="45" height="45" alt="OAuth"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_xDzBfwVJOKVBNQl35TNNPAzx0TbzxGBgeWrsSTdprc1rqRbRw2rEL-E&s=10" width="45" height="45" alt="OAuth"/>
 </p>
 
-**Spring Security • JWT • OAuth2 • Authentication & Authorization • Role-Based Access Control**
+**Spring Security • JWT • OAuth2 • Authentication & Authorization**
 
 ---
 
