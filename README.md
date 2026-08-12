@@ -123,58 +123,7 @@ I'm a **B.Tech Computer Science Graduate and aspiring Java Backend Developer** w
 ## 💼 HireConnect — Microservices Job Portal
 
 A full-stack job portal designed using a **microservices architecture**.
-
-### Architecture
-
-```text
-                         ┌──────────────────┐
-                         │   React Frontend │
-                         └────────┬─────────┘
-                                  │
-                                  ▼
-                         ┌──────────────────┐
-                         │   API Gateway    │
-                         │      :8080       │
-                         └────────┬─────────┘
-                                  │
-                    ┌─────────────┼─────────────┐
-                    │             │             │
-                    ▼             ▼             ▼
-              Auth Service   Profile Service  Job Service
-                 :8081           :8082          :8083
-                    │
-                    ├──────── Application Service
-                    │              :8084
-                    │
-                    ├──────── Interview Service
-                    │              :8085
-                    │
-                    ├──────── Notification Service
-                    │              :8086
-                    │
-                    ├──────── Subscription Service
-                    │              :8087
-                    │
-                    └──────── Analytics Service
-                                   :8088
-
-                     ┌──────────────────────┐
-                     │       Eureka         │
-                     │    Service Registry  │
-                     │        :8761         │
-                     └──────────────────────┘
-
-                     ┌──────────────────────┐
-                     │      RabbitMQ        │
-                     │  Event Communication │
-                     └──────────────────────┘
-
-                     ┌──────────────────────┐
-                     │        Redis         │
-                     │       Caching        │
-                     └──────────────────────┘
 ```
-
 ### Key Features
 
 * 🔐 Authentication and authorization
@@ -443,21 +392,6 @@ Areas of exposure include:
 **LinkedIn:** `@priyanka-yadav22`
 
 **LeetCode:** `@Priyankay04`
-
----
-
-# 🎯 2026 Goals
-
-```text
-☑ Strengthen Java & DSA
-☑ Build production-ready Spring Boot applications
-☑ Learn and implement Microservices
-☑ Improve System Design knowledge
-☑ Build secure REST APIs
-☑ Contribute to Open Source
-☑ Improve competitive programming skills
-☑ Build impactful Full Stack projects
-☑ Become a strong Backend / Full Stack Developer
 ```
 
 ---
